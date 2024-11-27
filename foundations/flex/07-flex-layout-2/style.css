@@ -27,7 +27,8 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
   text-align: justify;
-  
+  flex-basis: 500px;
+  padding: 15px;
 }
 
 /* Solution */
@@ -66,7 +67,6 @@ body {
   padding: 48px;
   gap: 30px;
   flex-wrap: wrap;
-  
 }
 
 .footer {
